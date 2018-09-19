@@ -1,8 +1,8 @@
 document.getElementById("app").innerHTML = `
-<h1>Hello Parcel!</h1>
+<h1>Hello You!</h1>
 <div>
-  Look
-  <a href="https://parceljs.org" target="_blank" rel="noopener noreferrer">here</a>
-  for more info about Parcel.
+  Iam not crazy I promise, if you don't believe me look
+  <a href="http://mope.io/" target="_blank" rel="noopener noreferrer">here</a>
+  !
 </div>
 `;
