@@ -1,2 +1,0 @@
-# thirrrdsite
-Created with CodeSandbox
